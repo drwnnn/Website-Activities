@@ -376,6 +376,6 @@ validateGradeInput(examInput);
 validateGradeInput(mcoInput);
 
 // Set default example values
-if (quizInput) quizInput.value = 85;
-if (examInput) examInput.value = 80;
-if (mcoInput) mcoInput.value = 88;
+if (quizInput) quizInput.value = 86;
+if (examInput) examInput.value = 81;
+if (mcoInput) mcoInput.value = 89;
